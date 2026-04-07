@@ -1,7 +1,7 @@
 
 # ChemLLM App
 
-This project is a web-based ChemLLM Question/Answer based application that uses machine learning models (BERT,  RoBERTa, MISTRAL-7B, LLAMA , TBD) to predict naswer for the give question. It is implemented using Python, TensorFlow/Pytorch, and Flask, with options for model training, serving, and testing.
+This is a web-based ChemLLM Question/Answer based application that uses machine learning models (BERT,  RoBERTa, MISTRAL-7B, LLAMA , TBD) to predict answer for the given question. It is implemented using Python, TensorFlow/Pytorch, and Flask, with options for model training, serving, and testing.
 ## Feature 
 
 Train ChemLLM models (BERT,  RoBERTa, MISTRAL-7B, LLAMA , TBD).
